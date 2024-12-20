@@ -564,7 +564,7 @@ img {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
-  margin-bottom: 16px;
+  margin-bottom: 8px;
 }
 .modal-close {
   display: flex;
@@ -599,7 +599,7 @@ img {
   fill: #ffffff;
 }
 .form-cont {
-  margin-bottom: 16px;
+  margin-bottom: 8px;
 }
 .form-user-label {
   display: block;
